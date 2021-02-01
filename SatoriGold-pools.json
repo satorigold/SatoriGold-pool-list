@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "name" : "Pool-Pay.com",
+      "url" : "https://xau.pool-pay.com",
+      "api" : "https://xau.pool-pay.com:8799",
+      "type" : "cryptonote-nodejs-pool"
+    },
+    {
+      "name" : "Walemo.com",
+      "url" : "https://xau.walemo.com",
+      "api" : "https://xaupool.walemo.com:28378",
+      "type" : "snipa22-nodejs-pool"
+    }
+}
