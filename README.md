@@ -1,0 +1,1 @@
+SatoriGold-pool-list
